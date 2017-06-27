@@ -1,0 +1,501 @@
+148,Snyder,Angel,2916,Montgomery Street,Pennant,AB,P7B 3I2,321-214-4894,121-513-2971,angel.snyder@utoronto.ca
+938,Wilkinson,Stella,5,Bank Street,Chambord,AB,U1A 9B0,101-427-9114,616-764-8348,stella.wilkinson@utoronto.ca
+652,Crosby,Kristie,6,19th Avenue,Notre-Dame-du-Bon-Conseil,NB,I8D 7Y9,299-561-1219,740-203-3344,kristie.crosby@utoronto.ca
+185,Salinas,Dollie,83,Autumn Avenue,Bloomfield,NB,J7J 9D1,624-410-8117,268-119-8989,dollie.salinas@utoronto.ca
+300,Mann,Floy,52,Grimes Road,Port Sydney,NL,G6C 5F8,737-515-5703,976-239-4824,floy.mann@utoronto.ca
+381,Garza,Jimmie,960,Hamilton Avenue,Clyde,PE,X1U 9F6,424-120-1431,909-966-7277,jimmie.garza@utoronto.ca
+35,Decker,Beatriz,4,Clove Road,Barons,ON,V4E 7I0,262-225-2473,480-384-3824,beatriz.decker@utoronto.ca
+81,Roman,Easter,50,Gunnison Court,Pierceland,NS,P1A 0K9,823-616-3547,153-824-6165,easter.roman@utoronto.ca
+904,Hansen,James,3,Wyckoff Avenue,Zealandia,NS,V1H 1X3,759-363-2989,833-579-9405,james.hansen@utoronto.ca
+636,Simmons,Georgina,12,Ashland Place,Oak Ridges,SK,M0A 3Q8,622-283-4457,302-691-1926,georgina.simmons@utoronto.ca
+450,Sparks,Kyra,461,Pershing Loop,Springfield,MB,L1K 1J5,441-562-7897,397-349-3176,kyra.sparks@utoronto.ca
+166,Simmons,Antoinette,104,Troutman Street,Mallorytown,NB,X7P 7U8,241-869-5425,490-668-9281,antoinette.simmons@utoronto.ca
+225,Martinez,Roseann,213,Lincoln Place,Terrasse Vaudreuil,NL,R5N 7I0,266-539-7352,173-244-9239,roseann.martinez@utoronto.ca
+376,Blanchard,Dian,48,8th Street,Heart`s Delight-Islington,BC,T0U 9R3,248-848-5548,922-650-3879,dian.blanchard@utoronto.ca
+217,Hamilton,Michell,7744,Seacoast Terrace,La Loche,YT,M3D 2B2,336-331-3003,626-365-5765,michell.hamilton@utoronto.ca
+34,Melendez,Kyung,8,7th Avenue,Queensport,NT,N7M 8Z2,694-641-4557,547-163-7365,kyung.melendez@utoronto.ca
+153,Gardner,Gertrude,6839,Mill Road,Anse-Saint-Jean,AB,D6S 3D4,601-444-2972,380-747-7203,gertrude.gardner@utoronto.ca
+537,Cortez,Freda,8,Hunterfly Place,Drayton Valley,NT,N3C 7Q6,744-482-7698,328-690-6535,freda.cortez@utoronto.ca
+746,Vaughn,Lorri,342,Sackett Street,Ste-Henedine,BC,G7V 7Y1,479-616-1230,754-371-2563,lorri.vaughn@utoronto.ca
+891,Talley,Ashleigh,5603,Metropolitan Avenue,Stukely-Sud,NS,R6Z 7R3,288-871-9272,677-612-1596,ashleigh.talley@utoronto.ca
+855,Hopkins,Ebony,9,Banner Avenue,Flesherton,NU,S3U 1T7,448-923-9880,300-958-1993,ebony.hopkins@utoronto.ca
+322,Sweeney,Tiffani,65,Havemeyer Street,Trois-Pistoles,NS,E8A 4L5,411-322-1063,698-146-4080,tiffani.sweeney@utoronto.ca
+161,Welch,Janell,9,Everit Street,Connaught,NU,E7L 6R1,378-238-3589,474-326-7126,janell.welch@utoronto.ca
+189,Black,Mai,56,Overbaugh Place,Eskasoni,NL,Y4S 5N9,669-694-8787,609-108-2176,mai.black@utoronto.ca
+242,Floyd,Corinne,5277,Miller Place,Vallee-Jonction,NB,W2N 7O7,994-634-7263,506-775-6946,corinne.floyd@utoronto.ca
+11,Cooke,Myrtis,5319,Milton Street,Pelee Island,NU,S7M 8Q7,860-334-5605,847-704-2459,myrtis.cooke@utoronto.ca
+246,Olson,Phyllis,822,Bay 25th Street,Fort Vermilion,QC,T5S 3W6,752-977-1794,743-329-2298,phyllis.olson@utoronto.ca
+329,Davis,Lisa,538,Cypress Court,Gander,QC,D2S 3P3,252-769-6194,395-545-6102,lisa.davis@utoronto.ca
+33,Peters,Cortney,6,Cumberland Street,Saltcoats,ON,Z4J 7M2,724-409-7264,683-414-8995,cortney.peters@utoronto.ca
+916,Guzman,Linnie,2557,Dank Court,St-Malo,SK,F1G 3I0,186-603-4692,503-937-9736,linnie.guzman@utoronto.ca
+394,Whitfield,Brigette,4,I-278,St-Pacome,MB,F7Q 9I5,952-441-5604,936-176-4412,brigette.whitfield@utoronto.ca
+369,Cherry,Alfreda,5592,Lawn Court,Estevan,NT,G8Q 4G7,994-641-5170,961-790-1459,alfreda.cherry@utoronto.ca
+70,Levy,Renata,74,Herkimer Court,Jarvis,MB,C0E 0R8,219-968-4885,731-179-4691,renata.levy@utoronto.ca
+787,Alexander,Tonia,1072,102nd Street,Odessa,QC,A4X 7W4,417-955-6888,271-291-4315,tonia.alexander@utoronto.ca
+783,Whitney,Terra,1102,Vanderveer Place,Long Harbour-Mount Arlington H,NL,X4R 2D5,742-996-7247,459-171-8705,terra.whitney@utoronto.ca
+181,Hunter,Daniel,205,90th Street,Westville,QC,V4I 7Z4,736-823-2025,297-459-8516,daniel.hunter@utoronto.ca
+234,Vaughan,Joe,1251,Commercial Street,Blind River,AB,W5G 2G0,377-874-1599,607-108-8308,joe.vaughan@utoronto.ca
+828,Park,Florine,51,Navy Street,Lorne,NB,I2W 1F6,286-456-9793,937-111-3922,florine.park@utoronto.ca
+461,Michael,Louella,341,21st Drive,Blaine Lake,NT,E6E 9D6,140-411-1305,224-424-5218,louella.michael@utoronto.ca
+730,Burgess,Kristin,7,Walton Street,St-Gregoire-de-Greenlay,QC,Y1G 8M1,985-390-1851,906-365-7246,kristin.burgess@utoronto.ca
+223,Buckley,Tomasa,6822,Rock Street,Lloydminster,PE,J7K 8H4,156-704-2753,695-473-3522,tomasa.buckley@utoronto.ca
+229,Collins,Deloris,498,Cumberland Walk,Red Sucker Lake,MB,B1U 8P6,689-959-1570,921-410-9398,deloris.collins@utoronto.ca
+822,Newman,Robbie,66,Irving Avenue,Searchmont,YT,S2D 7R8,970-764-9452,720-975-8843,robbie.newman@utoronto.ca
+253,Mcgee,Alta,7,Kansas Place,Bassano,NS,V9R 0I9,124-662-4046,839-475-3901,alta.mcgee@utoronto.ca
+370,Clark,Tonja,8868,Horace Court,Pouce Coupe,NT,W3F 2V8,587-970-8551,122-571-5568,tonja.clark@utoronto.ca
+533,Ewing,Chiquita,185,Mother Gaston Boulevard,Forest,BC,J4X 4H7,186-744-5479,965-456-5371,chiquita.ewing@utoronto.ca
+476,Page,Lorraine,4764,Beach 44th Street,St-Honore-de-Chicoutimi,NU,Y1G 2H4,575-419-9550,536-266-4389,lorraine.page@utoronto.ca
+795,Randolph,Misty,452,Pennsylvania Avenue,Dysart,ON,W7D 2N5,614-890-4689,112-609-7796,misty.randolph@utoronto.ca
+278,Mcintosh,Corine,432,Windsor Place,Grand Falls,NT,R5D 1H4,556-871-3957,884-349-8750,corine.mcintosh@utoronto.ca
+769,Mccullough,George,9661,Underhill Avenue,Holberg,NB,R5O 3T4,899-379-3830,279-365-1169,george.mccullough@utoronto.ca
+866,Stanton,Latasha,47,Heath Place,Watson,BC,F0A 3V5,648-875-9425,322-819-6086,latasha.stanton@utoronto.ca
+280,Anthony,Angie,2641,Arkansas Drive,Cochrane,MB,G6S 0B5,473-933-6967,671-844-8910,angie.anthony@utoronto.ca
+626,Jenkins,Keshia,85,Banner 3rd Terrace,Riske Creek,NT,J1D 8Q0,858-593-8544,754-995-2416,keshia.jenkins@utoronto.ca
+447,Kramer,Lavern,3,Shore Boulevard,Charlottetown,NU,G9M 7A2,755-880-7816,641-957-9166,lavern.kramer@utoronto.ca
+421,Sherman,Jena,50,Paidge Avenue,Woodridge,ON,X4H 4Z8,478-255-5223,931-312-4122,jena.sherman@utoronto.ca
+881,Rowe,Megan,92,Henderson Walk,Champion,AB,U1U 7I2,113-472-2956,208-770-3306,megan.rowe@utoronto.ca
+126,Rasmussen,Gay,7,Wolcott Street,Likely,NT,Q4L 7I0,444-765-9641,305-294-2507,gay.rasmussen@utoronto.ca
+788,Yang,Brigitte,739,Rutherford Place,Algoma Mills,NB,E1T 4B9,491-540-9266,444-880-7780,brigitte.yang@utoronto.ca
+415,Guy,Cruz,385,Prince Street,Manyberries,QC,C8D 6D0,713-447-5254,920-281-4872,cruz.guy@utoronto.ca
+274,Hammond,Tony,6,Brighton 5th Court,Fredericton,PE,K0J 3A6,684-209-1303,225-764-8825,tony.hammond@utoronto.ca
+921,Maldonado,Autumn,53,Parkville Avenue,Bawlf,NB,E7X 2W8,720-477-3299,251-540-9652,autumn.maldonado@utoronto.ca
+218,Erickson,Nadia,7,Karweg Place,Oxbow,BC,Y3T 4D3,955-249-9545,445-275-7088,nadia.erickson@utoronto.ca
+571,Hunter,Anna,42,Flatlands 3rd Street,Millhaven,NT,V6F 4K7,986-135-6845,906-210-3871,anna.hunter@utoronto.ca
+433,Giles,Mindy,66,Hooper Street,Hoyt,ON,T6S 6O1,231-171-5839,949-601-4530,mindy.giles@utoronto.ca
+20,Sanders,Darla,1989,Ridge Boulevard,Baie-Johan-Beetz,NS,Y3G 8F9,419-931-7901,979-580-5171,darla.sanders@utoronto.ca
+83,Mcpherson,Debby,34,Bay Avenue,Ridgeway,QC,J2Z 7Z7,379-149-8796,710-698-4825,debby.mcpherson@utoronto.ca
+341,Mcguire,Corine,791,Tennis Court,Forestville,NT,M6V 2H8,497-128-6453,934-287-2386,corine.mcguire@utoronto.ca
+658,Richard,Viviana,71,Voorhies Avenue,Thornbury,NL,K9V 3R9,519-113-9995,709-884-7203,viviana.richard@utoronto.ca
+119,Potter,Bertha,773,Fay Court,Lac-Saguay,QC,C5F 8P7,717-706-6635,454-990-8900,bertha.potter@utoronto.ca
+994,Lawrence,Rosalinda,20,Opal Court,Port-Menier,NS,Y2Q 4U1,123-715-9688,258-957-6620,rosalinda.lawrence@utoronto.ca
+354,Walsh,Ray,25,Van Sinderen Avenue,Rollet,MB,V6W 3F9,416-354-5606,812-284-5796,ray.walsh@utoronto.ca
+759,Franco,Elouise,2920,Landis Court,Ste. Cecile Masham,NT,N4Q 8T2,784-431-9187,331-208-1114,elouise.franco@utoronto.ca
+901,Osborn,Lacey,7,Furman Avenue,Roxton Falls,SK,L0Z 2Y0,672-653-4166,393-808-1930,lacey.osborn@utoronto.ca
+816,Wiley,Robert,600,Bay 44th Street,Pitt Meadows,NL,A8Z 5K7,256-677-1900,962-883-2273,robert.wiley@utoronto.ca
+221,Ellison,Bettina,8207,Kingsborough 4th Walk,Virginiatown,YT,E3Z 4X4,883-205-2033,398-377-2719,bettina.ellison@utoronto.ca
+31,Molina,Elma,879,Stryker Court,La Grande,NT,Y1M 4L4,840-269-6085,166-139-6257,elma.molina@utoronto.ca
+240,Summers,Lina,2226,35th Street,Westree,AB,F8D 8A8,133-703-7258,407-567-2595,lina.summers@utoronto.ca
+249,Page,Elma,500,Pershing Loop,Thorold,MB,J9T 2Y3,995-747-1832,230-247-6170,elma.page@utoronto.ca
+577,Rhodes,Mayra,5193,Bedford Avenue,Fugereville,SK,O1K 9U1,973-246-1587,608-134-9730,mayra.rhodes@utoronto.ca
+666,Avery,Kristie,73,Madeline Court,Parham,NB,A9K 1D0,252-431-6929,662-819-9609,kristie.avery@utoronto.ca
+619,Waters,Agatha,6,Union Street,D`Arcy,PE,Y5L 5S0,883-260-3064,246-216-8927,agatha.waters@utoronto.ca
+985,Riggs,Brigette,1269,Hamilton Avenue,Wapella,AB,S6T 2N0,933-541-7025,297-596-1485,brigette.riggs@utoronto.ca
+193,Lambert,Britney,188,Hopkins Street,St. Paul,NT,Q4L 7B5,376-196-1865,712-354-6357,britney.lambert@utoronto.ca
+762,Maynard,Teressa,6,Beard Street,Galahad,PE,E8C 1Q9,455-292-4792,234-376-3490,teressa.maynard@utoronto.ca
+478,Terrell,Justina,4617,Brighton 4th Street,Markdale,QC,N9F 3T5,270-994-7324,227-478-6762,justina.terrell@utoronto.ca
+396,Monroe,Jan,9,42nd Street,Brome,NS,C1X 0I9,922-984-9233,546-978-7829,jan.monroe@utoronto.ca
+924,Calhoun,Oma,994,Waldorf Court,Manouane,NL,Z1K 1X7,445-469-5225,793-753-3035,oma.calhoun@utoronto.ca
+598,Gentry,Stephenie,3244,99th Street,Belleville,NT,K8A 5I2,317-694-6012,475-423-6082,stephenie.gentry@utoronto.ca
+931,Cohen,Sandy,663,Vista Place,Riviere-au-Renard,BC,U2M 9R7,936-139-9186,728-653-2582,sandy.cohen@utoronto.ca
+39,Whitney,Ida,52,Vine Street,Ste-Madeleine,AB,J9A 9C8,821-266-8854,653-963-4012,ida.whitney@utoronto.ca
+929,Gould,Erma,7,Eagle Street,St-Damien-de-Buckland,NL,K7E 8K3,230-681-4064,851-892-2218,erma.gould@utoronto.ca
+80,Montgomery,Marcelle,2,Ingraham Street,Glenwood,MB,I7F 1A4,394-404-4232,119-114-1970,marcelle.montgomery@utoronto.ca
+640,Davenport,Nelda,8,Madoc Avenue,Saint Esprit,ON,I1J 4A9,964-530-6696,427-467-6049,nelda.davenport@utoronto.ca
+689,Parrish,Lura,50,Bergen Avenue,Douglastown,ON,O4V 9B2,804-297-8988,565-431-3068,lura.parrish@utoronto.ca
+702,Townsend,Helene,48,Lester Court,Ming`s Bight,NU,Q9U 6X3,192-997-1718,825-795-2028,helene.townsend@utoronto.ca
+980,Robinson,Karin,32,Jefferson Avenue,Chaplin,MB,H3Y 1W7,412-453-9650,672-655-2001,karin.robinson@utoronto.ca
+895,Weber,Doris,3,Morton Street,Gravenhurst,NT,T5S 4R3,103-475-7440,661-134-6883,doris.weber@utoronto.ca
+900,Velez,Roseanne,4,Church Lane,Oil Springs,BC,V9J 2X9,813-764-1638,479-916-4001,roseanne.velez@utoronto.ca
+623,Arnold,Tonya,736,Just Court,Ladysmith,NT,L3R 6M4,866-498-3918,931-720-8634,tonya.arnold@utoronto.ca
+607,Lloyd,Lucy,595,New Dock Street,Emeryville,ON,M4V 8H4,605-195-5578,120-956-3313,lucy.lloyd@utoronto.ca
+779,Monroe,Ma,2,Pulaski Street,Winterton,MB,U0I 0O1,112-877-2469,562-141-8019,ma.monroe@utoronto.ca
+105,Patterson,Ida,8751,Dakota Place,Victoria,NS,T0L 3V7,172-328-8157,464-612-2902,ida.patterson@utoronto.ca
+713,Rush,Viola,4,Cornelia Street,Borden,YT,W8R 9P2,376-693-7358,896-275-2924,viola.rush@utoronto.ca
+582,Callahan,Erica,62,41st Street,Spy Hill,AB,C1B 1F2,147-124-9494,223-748-5373,erica.callahan@utoronto.ca
+752,House,Brenna,1221,3rd Street,Richmond,YT,R9I 4N8,777-386-8427,356-672-6293,brenna.house@utoronto.ca
+75,Mercer,Danielle,559,Warsoff Place,Malartic,QC,K8B 5N6,300-127-5985,209-793-4959,danielle.mercer@utoronto.ca
+971,Powell,Rubye,5,Coney Island Avenue,Perdue,PE,Z4X 2B3,274-490-5823,904-776-9765,rubye.powell@utoronto.ca
+159,Lancaster,Genevieve,711,Hinsdale Street,South Indian Lake,NU,I9W 4O9,511-553-2123,937-511-8667,genevieve.lancaster@utoronto.ca
+671,Ratliff,Tony,8611,Orient Avenue,Ste-Agathe-Sud,NS,D5X 7N2,667-711-8142,872-862-6384,tony.ratliff@utoronto.ca
+407,Chase,Jeri,5,Trucklemans Lane,Cardiff,ON,K9V 2C2,196-246-6496,231-358-6686,jeri.chase@utoronto.ca
+641,Parks,Lilly,5551,Richards Street,Spirit River,YT,I0R 7N8,901-969-4359,454-811-4627,lilly.parks@utoronto.ca
+663,Mullins,Chanda,751,2nd Avenue,Ste-Anne-de-la-Perade,PE,I6N 8S7,126-588-8783,546-188-9203,chanda.mullins@utoronto.ca
+465,Vasquez,Allie,504,Williamsburg Street,Kincaid,NS,Q6Z 1G5,466-987-7521,830-173-8574,allie.vasquez@utoronto.ca
+611,Gilbert,Virginia,664,Driggs Avenue,Campbellton,AB,B7N 1W4,333-285-6253,501-362-6960,virginia.gilbert@utoronto.ca
+460,Calderon,Janis,180,6th Street,Eastman,ON,F3A 5S0,883-650-5786,761-467-7177,janis.calderon@utoronto.ca
+760,Webb,Mary,4,Canal Avenue,Le Bic,QC,P1J 2N1,329-205-9572,164-610-9671,mary.webb@utoronto.ca
+798,Silva,Phylis,156,Howard Place,Pikangikum First Nation,NS,B0W 3Z5,656-435-4911,591-693-1622,phylis.silva@utoronto.ca
+18,Maldonado,Noelle,22,Louis Place,Baie-Comeau,QC,Z7R 2H4,844-917-6582,838-208-8618,noelle.maldonado@utoronto.ca
+38,Cross,Tommie,348,Shale Street,Albanel,PE,C8A 1X6,879-731-6617,604-705-1217,tommie.cross@utoronto.ca
+764,Conrad,Maritza,2,Beverly Road,L`Epiphanie,YT,N4A 2R3,321-380-5781,757-262-8616,maritza.conrad@utoronto.ca
+127,Horne,Trista,79,Everett Avenue,Rouleau,MB,B9S 3N1,998-707-5654,264-358-7181,trista.horne@utoronto.ca
+956,Pate,Glenda,9,Columbia Street,Saint Etienne de Beauharnois,NU,T6I 9O7,877-168-4438,200-853-7873,glenda.pate@utoronto.ca
+595,Velasquez,Caryn,412,Atlantic Avenue,Lansdowne House,SK,Z7P 3Z4,676-593-1284,879-122-8028,caryn.velasquez@utoronto.ca
+393,Benton,Sadie,28,Wyona Street,Sandy Bay,MB,R6X 9D7,642-622-8336,693-621-7138,sadie.benton@utoronto.ca
+378,Huff,Jonnie,8234,Paerdegat 15th Street,Chippewas Of Sarnia First Nati,QC,V9E 8N8,135-282-6282,982-580-2874,jonnie.huff@utoronto.ca
+471,Mcguire,Eleanor,45,Navy Street,View Royal,ON,E2E 0A1,880-766-5510,793-119-9778,eleanor.mcguire@utoronto.ca
+691,Johns,Barbra,474,Chase Court,Birch Island,QC,T5A 8W6,561-300-9333,975-869-2418,barbra.johns@utoronto.ca
+995,Russell,Candice,20,St Francis Place,Gladstone,BC,D8R 1F7,384-329-7703,754-314-5006,candice.russell@utoronto.ca
+454,Reid,Irene,746,Woods Place,Melfort,PE,K1C 2H1,576-641-6856,992-368-6518,irene.reid@utoronto.ca
+505,Savage,Edna,25,Seton Place,Ascot Corner,QC,D4X 3Y7,924-234-8114,650-775-6465,edna.savage@utoronto.ca
+550,Jacobs,Karrie,3,Lake Place,Humber Arm South,NT,U9C 4F3,197-447-8252,894-960-3201,karrie.jacobs@utoronto.ca
+907,Armstrong,Lucia,628,Walker Court,Bedeque,AB,B7L 6P7,305-593-9978,848-187-6706,lucia.armstrong@utoronto.ca
+821,Boyd,Helga,9,Virginia Place,Harbour Grace,PE,W1W 3D1,868-961-1513,103-680-2137,helga.boyd@utoronto.ca
+308,Porter,Kelsey,4,Beaumont Street,Agassiz,PE,M5E 3Q1,918-511-5321,888-244-9904,kelsey.porter@utoronto.ca
+89,Gallegos,Dominique,7959,Bedford Place,Port Aux Basques,NU,B1P 4T0,154-906-2499,615-179-4675,dominique.gallegos@utoronto.ca
+634,Galloway,Mozelle,34,Grafton Street,Arnold`s Cove,NT,S0R 7L7,108-585-6196,710-978-7013,mozelle.galloway@utoronto.ca
+464,Floyd,Gilda,52,Crosby Avenue,Gloucester,YT,X1Q 1Z1,970-324-5935,968-919-7703,gilda.floyd@utoronto.ca
+566,Anderson,Tyra,6428,Patchen Avenue,Saint Victoire de Sorel,NS,B6W 2W1,731-957-8774,115-664-6486,tyra.anderson@utoronto.ca
+320,Reese,Elinor,37,Schaefer Street,Asbestos,NL,Y5S 0T4,232-226-5089,879-947-5662,elinor.reese@utoronto.ca
+144,Drake,Kathi,824,Kings Place,Alderville First Nation,NB,H8Z 9R3,305-579-7299,419-718-1778,kathi.drake@utoronto.ca
+696,Gilliam,Robbin,77,Times Placez,Grand-Mere,ON,V0G 7K4,880-486-4754,417-389-8420,robbin.gilliam@utoronto.ca
+831,Hayes,Cathryn,3,Raleigh Place,Sherwood Park,NU,Q3V 0O8,811-552-1631,176-685-2583,cathryn.hayes@utoronto.ca
+984,Peterson,Georgia,2783,55th Street,Brock,ON,B1H 0N9,120-979-4892,180-627-5316,georgia.peterson@utoronto.ca
+578,Melendez,Gloria,382,Langham Street,Cochrane,NB,D0Z 4Y8,745-437-9494,155-216-3822,gloria.melendez@utoronto.ca
+227,Cash,Pat,39,Norman Avenue,Oneida First Nation,NT,Y1Z 1F1,270-700-4623,828-178-1789,pat.cash@utoronto.ca
+397,Middleton,Felecia,19,57th Street,St-Alphonse-Rodriguez,NL,Q2Z 9A7,597-747-2571,970-239-7066,felecia.middleton@utoronto.ca
+388,Carpenter,Cheri,18,Bay 50th Street,Wellandport,AB,L1Y 3N5,824-285-1421,177-530-4309,cheri.carpenter@utoronto.ca
+201,Lowery,Roxann,573,Gain Court,St-Hippolyte,MB,X4O 0B8,707-249-4486,104-120-4871,roxann.lowery@utoronto.ca
+639,Harrell,Zelda,9,Olean Street,New Liskeard,NU,T8Y 6U7,840-164-2410,538-706-3859,zelda.harrell@utoronto.ca
+58,Sloan,Josefina,143,Warwick Street,Calder,PE,I8I 2K1,953-469-9935,531-165-1647,josefina.sloan@utoronto.ca
+399,Hickman,Elizebeth,737,Battery Avenue,St. Albert,QC,B4J 6Q8,503-229-9368,773-913-5749,elizebeth.hickman@utoronto.ca
+22,Butler,Aileen,41,Walton Street,Chambly,YT,G4L 5E6,512-520-5458,739-707-9025,aileen.butler@utoronto.ca
+260,Forbes,Cristy,8,Brighton 1st Road,Redwater,NT,G6X 7V3,183-666-2016,394-603-4848,cristy.forbes@utoronto.ca
+703,Rivers,Matilda,271,Bay Avenue,Hanna,YT,F7R 9L2,497-694-7368,527-143-7231,matilda.rivers@utoronto.ca
+687,Mann,Minnie,40,Kingsborough 4th Walk,Lake Lenore,ON,L3S 1C6,425-525-4287,276-598-4328,minnie.mann@utoronto.ca
+324,Carroll,Bettye,178,Gates Avenue,Saint Joachim,NU,E2K 3M1,377-450-6773,306-295-7405,bettye.carroll@utoronto.ca
+145,Mayo,Marisa,767,India Street,Silver Valley,NB,U1T 7K8,966-859-5458,405-245-1538,marisa.mayo@utoronto.ca
+849,Bright,Lily,949,Division Avenue,Wakaw,NU,E4D 5F0,391-808-2804,967-591-4679,lily.bright@utoronto.ca
+661,Barrett,Adriana,53,McClancy Place,Sainte Therese De Blainville,SK,X4B 2U4,208-511-3045,996-730-2445,adriana.barrett@utoronto.ca
+95,Weeks,Aura,5,Fleet Walk,Bromont,NL,X6X 9W2,395-639-9766,748-632-6704,aura.weeks@utoronto.ca
+885,Long,Adell,54,Brooklyn Avenue,Hedley,SK,N5D 5U4,580-784-8332,462-585-4219,adell.long@utoronto.ca
+111,Hale,Sharla,1406,Spencer Place,Whitemouth,AB,S5P 7U2,555-448-9577,399-761-1901,sharla.hale@utoronto.ca
+469,Massey,Jodie,3967,Conselyea Street,Stoneham,NB,G1Q 9S9,544-788-4235,499-413-8642,jodie.massey@utoronto.ca
+102,Barrera,Savannah,5667,Olive Street,Cardiff,NL,I1T 5R0,148-990-3708,435-768-2959,savannah.barrera@utoronto.ca
+463,Smith,Valarie,4,Kingsway Place,New London,BC,A1N 0K6,813-182-2880,798-525-3438,valarie.smith@utoronto.ca
+203,Pena,Josie,509,John Street,Pinawa,NS,X3O 2N1,944-661-4774,940-567-8191,josie.pena@utoronto.ca
+618,Petersen,Carmelita,964,Lois Avenue,Wasagaming,ON,M5J 3C3,437-928-8770,905-847-8451,carmelita.petersen@utoronto.ca
+344,Macdonald,Doreen,78,Lake Place,Beauport,NB,G8S 5J4,516-609-7706,195-211-4203,doreen.macdonald@utoronto.ca
+502,Barton,June,80,Prospect Avenue,Paquette Corner,AB,J4P 2V1,959-402-7651,976-976-2057,june.barton@utoronto.ca
+256,Calhoun,Marita,1,Brighton 13th Street,Scarborough,AB,I7B 9U2,348-104-8252,731-983-3608,marita.calhoun@utoronto.ca
+316,Wilkins,Kara,1089,Vernon Avenue,Red Lake,ON,U7I 3Y9,294-105-4370,481-179-8936,kara.wilkins@utoronto.ca
+847,Boyer,Bonita,1049,Winthrop Street,Woburn,QC,Y4N 8V6,596-235-6191,839-556-2691,bonita.boyer@utoronto.ca
+215,Myers,Myrtis,754,46th Street,Stroud,YT,L0F 1E7,677-274-6657,464-174-2865,myrtis.myers@utoronto.ca
+107,Morrow,Kasey,4,68th Street,Cape Dorset,NB,X2X 1M1,328-582-6457,298-720-4582,kasey.morrow@utoronto.ca
+349,Koch,Anissa,718,Kingsland Avenue,St. Bride`s,NL,S6G 6M0,874-906-7372,626-421-6357,anissa.koch@utoronto.ca
+290,Alvarez,Delois,3,Irvington Place,Stockholm,MB,B2M 6H9,315-337-3040,226-907-3091,delois.alvarez@utoronto.ca
+472,Henson,Tammie,492,8th Street,Lery,SK,M1W 1V9,733-379-7670,296-230-8876,tammie.henson@utoronto.ca
+518,Barrera,Lorraine,5435,Kathleen Court,St. Charles,SK,R3L 7T2,428-547-4246,821-111-7440,lorraine.barrera@utoronto.ca
+728,Fitzgerald,Jenifer,763,Eastern Parkway,Saint Philippe,BC,D9S 7F7,190-387-8965,151-865-8858,jenifer.fitzgerald@utoronto.ca
+540,Wood,Roxanne,8964,Frank Court,Speers,QC,C8Z 1M8,174-207-8343,687-758-7465,roxanne.wood@utoronto.ca
+337,Lindsey,Kaye,1,Norwood Avenue,River of Ponds,YT,M0R 8V1,623-577-7623,568-154-8626,kaye.lindsey@utoronto.ca
+993,Hendricks,Roxanne,1,Clifford Place,Viscount,ON,H2F 1N7,385-671-4649,508-349-8444,roxanne.hendricks@utoronto.ca
+673,Herman,Dolly,5202,Granite Street,Fort Frances,SK,O9O 1J4,397-545-4215,525-307-1074,dolly.herman@utoronto.ca
+576,Owens,Jana,5481,Stanley Avenue,Wembley,SK,Y0J 1U5,129-733-3226,290-651-4437,jana.owens@utoronto.ca
+455,Dejesus,Kaitlin,62,Fountain Avenue,Neguac,NL,C7H 1N5,497-939-6534,477-823-2422,kaitlin.dejesus@utoronto.ca
+624,Roman,Lenora,225,Beach 43rd Street,Inuvik,AB,W3G 4J7,452-203-4902,256-179-5916,lenora.roman@utoronto.ca
+191,Tyler,Marilyn,14,Vine Street,Lac la Croix,AB,K2F 7J0,239-682-6654,617-641-3205,marilyn.tyler@utoronto.ca
+952,Rodgers,Maud,97,37th Street,Jarvis,NL,E6D 6V3,741-372-1645,522-378-6231,maud.rodgers@utoronto.ca
+996,Abbott,Mei,79,Sterling Street,Grand Falls,MB,B9L 9Q7,913-210-7770,903-326-9601,mei.abbott@utoronto.ca
+345,Curry,Angel,7296,Turner Place,Penetanguishene,NL,B1Z 4H7,806-925-6253,499-578-5935,angel.curry@utoronto.ca
+206,Slater,Tasha,4542,Madison Street,Ogoki,QC,E5I 9E0,479-513-6200,902-284-2149,tasha.slater@utoronto.ca
+808,Garza,Mara,88,Williams Avenue,Rougemont,AB,A3H 0W6,313-547-4090,356-667-1861,mara.garza@utoronto.ca
+212,Baker,Harriett,488,Flatlands 8th Street,Holland Landing,YT,Y4R 1U4,247-193-6545,759-919-6941,harriett.baker@utoronto.ca
+644,Wynn,Candace,437,Summit Street,Hampstead,NS,F3L 8F9,289-883-1064,732-877-3037,candace.wynn@utoronto.ca
+109,Thornton,Brooke,2,Withers Street,Centreville-Wareham-Trinity,AB,A6K 5I4,478-281-6251,512-562-5520,brooke.thornton@utoronto.ca
+63,Stevenson,Alyssa,101,34th Street,Hickman`s Harbour,NT,G6H 3J5,977-347-7564,236-926-7566,alyssa.stevenson@utoronto.ca
+432,Rowland,Lara,1,Walworth Street,Ojibways of Walpole Island Fir,MB,W7T 5K4,779-506-6069,557-748-7902,lara.rowland@utoronto.ca
+955,Shaffer,Alyssa,2,Kossuth Place,Ponoka,NS,X8W 5M8,677-805-3315,767-298-6231,alyssa.shaffer@utoronto.ca
+659,Barron,Judi,882,Brighton 8th Street,Dugald,BC,S9B 7X7,597-649-8081,116-299-3639,judi.barron@utoronto.ca
+726,Bolton,Estela,2020,Somers Street,Raith,NU,C7E 1O2,138-529-9442,353-134-6878,estela.bolton@utoronto.ca
+200,Moreno,Latisha,304,Barbey Street,Shell Lake,AB,Y3S 5A6,651-584-8899,996-223-1043,latisha.moreno@utoronto.ca
+459,Allen,Robyn,6,Pooles Lane,Salt Springs,SK,F8B 9T8,497-868-4883,723-108-3880,robyn.allen@utoronto.ca
+785,Duffy,Cari,478,Strickland Avenue,Birtle,NL,O2W 7L5,509-743-3796,345-624-7697,cari.duffy@utoronto.ca
+947,Martin,Elaine,8,Sedgwick Place,Bromptonville,NB,B3N 0K7,473-364-6540,360-704-1347,elaine.martin@utoronto.ca
+501,House,Florence,869,Kings Hwy,Norval,SK,H9Q 0O7,127-230-2926,681-262-4838,florence.house@utoronto.ca
+741,Lara,Sonja,7,Flatbush Avenue,Joutel,NT,G3U 3X2,678-420-9415,853-513-1932,sonja.lara@utoronto.ca
+317,Carpenter,Felicia,295,Lincoln Place,Pincher Creek,NL,D0E 0H6,794-993-6996,345-926-4810,felicia.carpenter@utoronto.ca
+306,Robertson,Jillian,86,Bay Street,Fairview,QC,D1G 2L1,620-757-9468,302-540-3885,jillian.robertson@utoronto.ca
+448,Haley,Teri,428,Brighton 3rd Street,Kingfisher Lake,NT,K7R 5E3,185-213-7138,396-397-4291,teri.haley@utoronto.ca
+560,Velez,Rosetta,7,Waverly Avenue,East Gwillimbury,PE,T1F 2L6,766-600-2465,251-151-7237,rosetta.velez@utoronto.ca
+770,Franks,Della,1,Monument Walk,Victoria,NL,D6K 1O4,863-428-1477,380-783-7579,della.franks@utoronto.ca
+71,Meyers,Eunice,4807,9th Avenue,Kinistino,NS,E8P 3O2,419-459-7107,704-787-4930,eunice.meyers@utoronto.ca
+60,Mcdaniel,Tammy,3,Elliott Place,Brock,YT,T0V 7O2,663-586-2225,393-533-7926,tammy.mcdaniel@utoronto.ca
+487,Perez,Clarissa,7358,53rd Place,Lawrenceville,QC,X8K 0L3,565-176-2840,123-728-1612,clarissa.perez@utoronto.ca
+672,Navarro,Tosha,622,Virginia Place,Ste-Julie-de-Vercheres,NB,B8V 8K8,235-989-7402,135-100-5388,tosha.navarro@utoronto.ca
+196,Becker,Christen,58,Oxford Street,Port Credit,NU,P6J 0V3,589-837-4707,149-303-1305,christen.becker@utoronto.ca
+488,Gutierrez,Mai,12,Garland Court,Lipton,NT,R8J 2W8,550-480-9627,972-946-3024,mai.gutierrez@utoronto.ca
+285,Travis,Katrina,5,Dunne Court,Castlegar,NU,H5E 1E6,267-588-2696,505-169-3749,katrina.travis@utoronto.ca
+871,Ayers,Leota,2490,St Marks Place,Enterprise,NT,Z6R 3R4,471-913-2950,836-665-7651,leota.ayers@utoronto.ca
+232,Simpson,Jerry,212,Narrows Avenue,Seeleys Bay,AB,I5S 4L7,305-297-5928,715-377-9281,jerry.simpson@utoronto.ca
+32,Haley,Tammy,6866,Laurel Avenue,Bonavista,NU,Z1I 1B7,738-993-5955,278-513-5833,tammy.haley@utoronto.ca
+732,Rivas,Gerda,67,Montgomery Street,Lennoxville,YT,C0K 0U9,732-709-7060,400-585-1477,gerda.rivas@utoronto.ca
+373,Fisher,Keri,56,Doone Court,Braeside,ON,G5E 5V3,348-801-3521,489-455-6765,keri.fisher@utoronto.ca
+356,Grimes,Rosalyn,185,Overbaugh Place,Lambeth,YT,F2C 0O7,818-267-6041,748-975-8984,rosalyn.grimes@utoronto.ca
+864,Rivas,Bobbi,82,Ditmars Street,Port McNeill,QC,L0N 8Z7,464-502-6273,162-810-7956,bobbi.rivas@utoronto.ca
+157,Mckinney,Gussie,5,64th Street,St-Alexis-des-Monts,PE,R0D 3I7,234-349-7578,860-353-6451,gussie.mckinney@utoronto.ca
+198,Hodges,Tamera,70,Walker Court,Wyoming,NU,D9K 7H0,494-315-1342,401-778-6081,tamera.hodges@utoronto.ca
+335,Butler,Emilia,972,Cobek Court,Dorion,AB,F9H 1Q5,303-817-4658,447-468-2524,emilia.butler@utoronto.ca
+717,Britt,Janeen,6,Driggs Avenue,North Spirit Lake,AB,D6D 3D3,593-688-3424,978-761-3589,janeen.britt@utoronto.ca
+305,Griffith,Aisha,580,Woodbine Street,Carmanville,NU,N5C 6J0,524-428-2021,364-666-6620,aisha.griffith@utoronto.ca
+796,Ochoa,Perla,16,Brighton 5th Walk,Lipton,MB,Q8G 5M5,839-882-4462,519-204-9544,perla.ochoa@utoronto.ca
+811,Wagner,Sheila,52,Leonard Street,Peers,BC,B5B 1I5,895-430-7938,117-254-2709,sheila.wagner@utoronto.ca
+850,Berry,Yong,735,10th Avenue,Douglas,NU,V2O 5V2,530-361-3587,253-708-6809,yong.berry@utoronto.ca
+573,Anderson,Leonora,856,Moore Street,Ste-Marthe-sur-le-Lac,NL,D2J 3F0,893-592-8510,130-506-8621,leonora.anderson@utoronto.ca
+825,Stafford,Margo,733,Banker Street,Baie-de-Shawinigan,PE,R3F 5Y7,946-297-9088,627-773-4654,margo.stafford@utoronto.ca
+331,Lester,Beryl,192,77th Street,Willingdon,MB,W8O 0E0,313-299-2280,605-677-1352,beryl.lester@utoronto.ca
+313,Carson,Rosalia,6,Shore Parkway,St-Hilarion,NS,T9S 3A0,982-676-6993,753-203-5725,rosalia.carson@utoronto.ca
+590,Macias,Carmel,16,Whitney Avenue,Ste-Henedine,NS,Z8F 4I0,264-391-8403,201-419-9405,carmel.macias@utoronto.ca
+424,Bryan,Jean,5,Lamont Court,St. Alban`s,PE,W1R 9P2,684-367-8362,254-330-9787,jean.bryan@utoronto.ca
+699,Daniel,Daria,60,Bedford Place,Wandering River,NU,Z9C 5T5,291-165-5421,473-330-3100,daria.daniel@utoronto.ca
+199,Willis,Carmelita,7215,Polar Street,Cardiff,YT,F1W 5L3,582-904-4502,229-538-1942,carmelita.willis@utoronto.ca
+991,Albert,Annette,3,Weldon Street,Richmond,NT,Y3L 2Q8,628-747-9043,471-862-5087,annette.albert@utoronto.ca
+162,Garner,Phyllis,7409,Decatur Street,Glaslyn,NL,U7B 9F3,116-679-5129,813-252-8215,phyllis.garner@utoronto.ca
+343,Oliver,Wilma,445,Sigourney Street,Peggy`s Cove,NL,M9V 1E3,634-356-5103,292-867-7075,wilma.oliver@utoronto.ca
+400,Anderson,Yadira,8,Sherlock Place,Rocanville,NL,O6D 6A5,111-280-3633,589-208-1377,yadira.anderson@utoronto.ca
+856,Gutierrez,Asia,715,Montana Place,Sharbot Lake,MB,K0W 1H2,169-343-5272,280-177-8535,asia.gutierrez@utoronto.ca
+167,Stephens,Rosetta,82,Seigel Street,Strongfield,NT,M1Z 2O9,679-111-2670,875-861-9646,rosetta.stephens@utoronto.ca
+56,Berry,Sallie,3,Lafayette Walk,Orford,NU,T0U 3V0,285-368-5265,811-235-3820,sallie.berry@utoronto.ca
+180,Lee,Shanda,43,Juliana Place,Kenaston,SK,V6H 3X1,374-813-2339,410-885-9134,shanda.lee@utoronto.ca
+14,Castro,Tisha,7,Midwood Street,Keremeos,NL,B5T 0M6,339-305-4836,507-186-3728,tisha.castro@utoronto.ca
+214,Hurley,Judi,4054,Lott Place,Boswell,PE,T3X 8E9,961-720-6406,512-129-5464,judi.hurley@utoronto.ca
+806,Curtis,Tracey,1140,95th Street,Ste-Anne-des-Plaines,ON,V8T 7H6,537-687-8004,123-630-8088,tracey.curtis@utoronto.ca
+403,Gates,Eddie,6,Morgan Avenue,Massey,QC,W3E 2T0,184-767-7041,622-335-5922,eddie.gates@utoronto.ca
+252,Greer,Liliana,8,Meserole Avenue,Beaumont,NL,I7R 9W2,453-750-6452,840-671-3722,liliana.greer@utoronto.ca
+631,Black,Kimberly,6570,Cumberland Street,Labrador City,YT,R7E 6B4,382-636-6851,838-108-5774,kimberly.black@utoronto.ca
+121,Sweet,Marilee,711,Ide Court,St-Irenee,BC,Z7P 9Z4,782-821-4431,257-709-2949,marilee.sweet@utoronto.ca
+404,Solomon,Margaret,4,Clifford Place,Hope,ON,M3P 4J6,291-644-5866,941-149-4293,margaret.solomon@utoronto.ca
+152,Lucas,Rosanna,2896,Cass Place,Sorel-Tracy,AB,C0G 9P0,478-451-2112,929-400-9756,rosanna.lucas@utoronto.ca
+500,Burgess,Johnnie,6423,Gotham Avenue,St-Flavien,BC,X4C 0D5,327-276-4124,662-948-4931,johnnie.burgess@utoronto.ca
+243,Shannon,Nilda,4,Bijou Avenue,Ste. Croix de Lotbiniere,NT,P4B 5J6,802-123-8578,432-163-3547,nilda.shannon@utoronto.ca
+508,Garner,Mirna,95,Wyckoff Avenue,Burlington,NB,N0C 3L8,400-863-9395,453-453-8848,mirna.garner@utoronto.ca
+204,Eaton,Lidia,1907,Bushwick Place,Wesleyville,PE,A3B 9T8,714-353-8930,709-830-5406,lidia.eaton@utoronto.ca
+430,Atkinson,Carole,2,36th Street,Kitsault,NL,F7Q 8T8,425-430-3222,973-717-1976,carole.atkinson@utoronto.ca
+188,May,Denice,88,Desmond Court,Gabarus,NU,R5D 6W4,239-116-6786,424-763-3167,denice.may@utoronto.ca
+458,Cabrera,Mirna,1302,Bay 53rd Street,Ste-Genevieve,MB,K9I 5V5,369-941-6113,997-209-6285,mirna.cabrera@utoronto.ca
+84,Olson,June,641,Perry Place,Anzac,AB,R8D 7X0,398-787-8383,631-692-2465,june.olson@utoronto.ca
+53,Whitehead,Gene,52,Lafayette Walk,Trepassey,NS,B1N 4K7,418-750-4579,126-458-1711,gene.whitehead@utoronto.ca
+961,Conway,Caroline,9867,Rose Street,Montreal,BC,S3X 0E0,805-938-6095,503-524-4312,caroline.conway@utoronto.ca
+569,Irwin,Elba,483,Myrtle Avenue,Gretna,YT,H6G 4U3,311-751-2237,130-627-3693,elba.irwin@utoronto.ca
+523,Hopkins,Jocelyn,63,Meadow Street,Coalhurst,NB,B6S 6T0,661-771-8055,693-550-3924,jocelyn.hopkins@utoronto.ca
+982,Horton,Isabelle,60,Corbin Place,Sandspit,NB,I5J 6U5,358-974-9804,438-323-7210,isabelle.horton@utoronto.ca
+367,Wade,Barbra,8,Seaview Court,The Pas,NS,A3T 8L8,567-755-1333,948-869-5864,barbra.wade@utoronto.ca
+124,Rasmussen,Lena,11,Flatbush Avenue,Wikwemikong,NT,R6S 1H4,345-431-7305,818-342-3962,lena.rasmussen@utoronto.ca
+766,Andrews,Earline,9656,53rd Place,M`Chigeeng,ON,C1W 9K8,981-450-7752,683-335-6925,earline.andrews@utoronto.ca
+842,Vega,Michelle,7977,Livingston Street,Newmarket,NS,Y0H 7M7,669-947-5182,576-924-9861,michelle.vega@utoronto.ca
+600,Kent,Phyliss,1,Huron Street,Tisdale,QC,C6G 0K7,731-397-7437,834-885-4262,phyliss.kent@utoronto.ca
+525,Tucker,Caridad,9,Luquer Street,Colliers,NL,P0O 1B9,785-183-7961,617-910-9187,caridad.tucker@utoronto.ca
+350,Christensen,Evangeline,7,33rd Street,Opasatika,QC,M7N 7P1,417-874-6299,308-123-2609,evangeline.christensen@utoronto.ca
+843,Dunn,Misti,519,Shell Road,Conche,YT,E3H 2G6,970-589-9223,246-918-8822,misti.dunn@utoronto.ca
+620,Church,Sabrina,50,Railroad Avenue,Debert,SK,Z3F 8Y0,792-942-4507,105-833-9194,sabrina.church@utoronto.ca
+142,Burris,Sharon,7455,Starr Street,Port Bickerton,ON,W9N 8Y3,800-692-8226,438-401-3872,sharon.burris@utoronto.ca
+244,Greene,Lindy,13,Bliss Terrace,Saint Alphonse de Granby,NL,R4E 7S0,573-425-9929,686-372-7187,lindy.greene@utoronto.ca
+913,Nunez,Margaret,79,Polhemus Place,Libau,NU,Q0D 6Z5,814-247-9066,958-384-7772,margaret.nunez@utoronto.ca
+910,Hamilton,Ursula,439,Brighton 5th Lane,Port Greville,YT,Z5T 4H7,931-218-8518,133-301-8535,ursula.hamilton@utoronto.ca
+332,Neal,Noreen,6636,Pacific Street,Kenton,ON,U6P 2K1,340-330-7562,506-408-9070,noreen.neal@utoronto.ca
+342,Andrews,Alfreda,14,Monroe Street,Grand-Remous,NL,X4O 4N5,904-546-3316,622-725-7202,alfreda.andrews@utoronto.ca
+383,Serrano,Ronnie,25,Irvington Place,Eskasoni,NS,S9L 4J6,896-578-4175,307-196-6729,ronnie.serrano@utoronto.ca
+255,Stanley,Jenifer,4,Mc Kenny Street,Little Bay,NL,V8U 4U8,305-465-1603,831-338-6395,jenifer.stanley@utoronto.ca
+154,Alexander,Deidra,1292,Rock Street,Pointe-a-la-Croix,NS,Z3A 9N2,313-711-2017,756-467-2161,deidra.alexander@utoronto.ca
+334,Sanders,Georgiana,58,Celeste Court,Deschaillons-sur-Saint-Laurent,AB,Q8V 5R4,957-467-4162,898-930-1193,georgiana.sanders@utoronto.ca
+323,Carlson,Ashlee,5,Elton Street,Glen Williams,QC,P0Z 6U6,590-543-1998,985-977-2002,ashlee.carlson@utoronto.ca
+775,Bishop,Cecelia,7,1st Avenue,Bethesda,PE,T8U 6B8,673-494-2808,119-560-2156,cecelia.bishop@utoronto.ca
+877,Everett,Karrie,2748,Brighton 4th Street,Little Britain,SK,Y7V 8X6,164-991-5655,721-385-1212,karrie.everett@utoronto.ca
+419,Hill,Raquel,844,Front Street,St. Brendan`s,NU,M9J 7K9,327-539-1242,821-958-2053,raquel.hill@utoronto.ca
+61,Galloway,Susan,2034,Kingsborough 7th Walk,Balfour,MB,E8P 6F3,911-625-3165,902-624-9725,susan.galloway@utoronto.ca
+966,Baldwin,Delfina,77,98th Street,Lagoon City,MB,X0E 8H5,884-948-9860,754-733-7257,delfina.baldwin@utoronto.ca
+233,Valencia,Eileen,9817,28th Street,Lindsay,BC,R5C 7N0,507-402-5282,856-984-2770,eileen.valencia@utoronto.ca
+372,Vaughn,Marcia,560,Brighton 3rd Road,Orford,NL,V4H 2U0,153-833-8308,534-113-2422,marcia.vaughn@utoronto.ca
+972,Whitney,Leila,6733,Seaview Avenue,St-Tite-des-Caps,NS,X8L 4U7,571-501-1088,428-700-6019,leila.whitney@utoronto.ca
+632,Lawrence,Reva,6959,Fillmore Avenue,Grenville,SK,N4C 2S6,347-328-1955,139-352-2685,reva.lawrence@utoronto.ca
+475,Harmon,Destiny,6265,Mac Donough Street,Dieppe,NU,D1V 7I2,211-578-3575,169-710-3757,destiny.harmon@utoronto.ca
+799,Ratliff,Desiree,12,Pooles Lane,Fort Frances,ON,R6V 5R8,977-382-8651,256-255-8443,desiree.ratliff@utoronto.ca
+382,Benson,Sheila,7,Paerdegat Avenue,Cambridge Bay,SK,S6D 6Y6,787-838-1602,945-201-9109,sheila.benson@utoronto.ca
+981,Sellers,Cynthia,729,Brighton 11th Street,Blue River,NS,U7G 3S4,318-781-2276,650-594-4533,cynthia.sellers@utoronto.ca
+129,Callahan,Brianna,8,Louis Place,Richmound,QC,Q2G 2P4,674-603-2322,896-597-9516,brianna.callahan@utoronto.ca
+135,Yates,Elizebeth,839,Highland Boulevard,Listowel,YT,P6N 4S0,833-141-9830,174-347-4732,elizebeth.yates@utoronto.ca
+489,Cabrera,Isabella,77,Tillary Street,Rigolet,PE,J5D 5V4,432-912-4319,203-855-7998,isabella.cabrera@utoronto.ca
+723,Rowe,Erna,3,2nd Place,St-Sauveur,MB,K0H 3S1,121-718-9141,545-594-5292,erna.rowe@utoronto.ca
+1,Gregory,Mary,305,Fulton Street,Split Lake,NB,I7R 3M7,962-173-9476,980-989-9942,mary.gregory@utoronto.ca
+361,Leon,Robbin,42,Louise Terrace,Bedeque,BC,R9W 0U1,923-909-5121,296-529-9179,robbin.leon@utoronto.ca
+581,Fry,Isabelle,9,Paerdegat 2nd Street,Carberry,QC,Y4P 7X8,369-298-5152,235-486-7882,isabelle.fry@utoronto.ca
+133,Hooper,Tisha,7,Stephens Court,Port Greville,NS,H3A 9X9,293-211-4735,962-230-5851,tisha.hooper@utoronto.ca
+789,Dyer,Dorcas,1927,Highland View Avenue,Newport,NT,V3Z 6E2,628-865-8369,965-622-8311,dorcas.dyer@utoronto.ca
+524,Allison,Zoila,2758,Murdock Court,Thorndale,BC,F1P 5T0,823-123-3571,698-405-6860,zoila.allison@utoronto.ca
+330,Riddle,Renate,973,Albemarle Road,Kananaskis,SK,O4Q 8U7,689-390-6870,788-499-3515,renate.riddle@utoronto.ca
+67,Kinney,Lydia,4000,Vandervoort Place,Darlingford,YT,D4L 0B3,499-438-9305,582-160-6142,lydia.kinney@utoronto.ca
+563,Mejia,Viola,464,Gates Avenue,Black Duck Cove,AB,U5M 6Z7,386-307-6707,337-530-5511,viola.mejia@utoronto.ca
+748,Thornton,Ernestina,6401,Schweikerts Walk,Sawyerville,NS,O1M 1A9,441-203-8581,442-942-8421,ernestina.thornton@utoronto.ca
+451,Berger,Adela,171,Cadman Plaza,Ituna,PE,F9Q 2A4,869-401-2190,277-102-9350,adela.berger@utoronto.ca
+669,Davidson,Camille,8540,Oceanic Avenue,Widewater,AB,O3F 4T1,230-101-6779,767-467-9479,camille.davidson@utoronto.ca
+314,Larsen,Shanda,89,Myrtle Avenue,Harrowsmith,YT,K7J 7Z3,445-564-3719,871-414-5002,shanda.larsen@utoronto.ca
+915,Daugherty,Pattie,24,Madeline Court,St-Constant,YT,H2I 8T5,682-810-7734,936-485-8040,pattie.daugherty@utoronto.ca
+409,Serrano,Suzan,6,Cook Street,Galt,QC,P9E 4M7,766-821-2368,680-858-8467,suzan.serrano@utoronto.ca
+532,Hunter,Oralia,545,Fulton Street,Hickson,NL,X4F 0Z8,144-154-9767,365-337-9204,oralia.hunter@utoronto.ca
+832,Owen,Alecia,687,Madison Street,Alkali Lake,YT,C6T 2S8,705-763-2270,568-661-1972,alecia.owen@utoronto.ca
+13,Fitzpatrick,Lissette,613,Wythe Avenue,Red Bay,NB,L8P 4M1,998-458-7048,814-117-1411,lissette.fitzpatrick@utoronto.ca
+992,Simpson,Wilhelmina,6904,79th Street,Beaumont,NL,W3M 0X1,370-836-5439,851-409-1748,wilhelmina.simpson@utoronto.ca
+755,Ratliff,Melodie,30,West Avenue,Fort Assiniboine,YT,Y0S 7Q2,822-682-8084,732-531-4052,melodie.ratliff@utoronto.ca
+635,Andrews,Racheal,4,10th Street,Ojibways of Hiawatha First Nat,AB,E8A 0X6,260-306-6828,827-657-4121,racheal.andrews@utoronto.ca
+443,Daniel,Sonja,89,Lake Place,Sayward,MB,Z8V 4W4,928-604-1124,803-267-4476,sonja.daniel@utoronto.ca
+245,Moon,Lyn,2972,Parkside Avenue,Skookumchuck,NL,C4Y 8A1,939-654-7434,203-466-4446,lyn.moon@utoronto.ca
+763,Watkins,Venessa,9585,Classon Avenue,Prescott,NU,J3W 6Y1,902-844-3959,835-150-8255,venessa.watkins@utoronto.ca
+968,Mann,Estela,542,Virginia Place,Iron Springs,NT,Q1E 1N7,671-297-2098,198-423-2148,estela.mann@utoronto.ca
+118,Marshall,Karissa,97,Beach 51st Street,Port Stanley,SK,F2C 6W4,458-883-8409,358-625-5618,karissa.marshall@utoronto.ca
+999,Lang,Alisa,3,Heyward Street,Dokis First Nation,ON,A8I 0R8,203-685-8035,503-257-4206,alisa.lang@utoronto.ca
+91,Rosa,Tricia,126,Voorhies Avenue,Riverport,MB,G4Z 0R4,631-191-8088,570-728-3729,tricia.rosa@utoronto.ca
+358,Le,Nakia,824,Lewis Avenue,Waterloo,BC,T8E 8J0,439-674-7849,325-382-7901,nakia.le@utoronto.ca
+684,Bruce,Kristina,22,Veranda Place,Chartierville,NL,R1O 1F3,470-204-9804,789-321-5667,kristina.bruce@utoronto.ca
+801,Mcknight,Trisha,9554,Hemlock Street,Piapot,MB,Q8A 3Y8,767-888-7695,378-736-9181,trisha.mcknight@utoronto.ca
+544,Larsen,Sally,449,Ruby Street,Buffalo Narrows,NU,L9L 4Q6,422-345-1035,143-429-1606,sally.larsen@utoronto.ca
+43,Vance,Kylie,567,Baltic Street,Elk Point,BC,R8G 7K0,567-822-7845,716-639-5492,kylie.vance@utoronto.ca
+655,Reilly,Kisha,77,Noble Street,Conche,PE,W7X 3O1,572-753-5149,251-249-9560,kisha.reilly@utoronto.ca
+238,Turner,Valeria,59,Dunne Place,Bayfield,NL,O8A 0M7,616-283-6282,564-447-1945,valeria.turner@utoronto.ca
+352,Chang,Faye,146,Flatbush Avenue,Binscarth,NT,B5V 3R7,329-345-9463,917-689-8771,faye.chang@utoronto.ca
+179,Dale,Nedra,52,90th Street,Saanich,NL,Q2C 0K4,349-945-7459,908-623-8461,nedra.dale@utoronto.ca
+289,Sanders,Ivonne,5,96th Street,Morrisburg,NT,F4F 4F4,995-493-2795,612-578-7577,ivonne.sanders@utoronto.ca
+836,Mcbride,Raquel,100,Norfolk Street,Happy Valley-Goose Bay,NL,Y0P 7T8,801-366-8551,539-746-3022,raquel.mcbride@utoronto.ca
+725,Turner,Lucretia,74,Times Placez,New Harbour,AB,G4I 0B2,758-115-8688,836-902-7293,lucretia.turner@utoronto.ca
+266,Thomas,Shellie,5,Sackett Street,Mont-Laurier,BC,G2F 1Y2,210-579-7458,883-811-5245,shellie.thomas@utoronto.ca
+945,Blackwell,Lara,664,Knickerbocker Avenue,Pleasant Park,NT,C1N 7N6,137-303-7207,506-123-2441,lara.blackwell@utoronto.ca
+4,Meyers,Samantha,51,45th Street,Eatonia,NU,F9I 1L4,819-436-5980,979-526-5963,samantha.meyers@utoronto.ca
+294,Holman,Teresita,264,Horace Court,Estevan,BC,V4A 3Z7,732-558-3749,513-605-9556,teresita.holman@utoronto.ca
+794,Aguilar,Annemarie,20,Marshall Street,Madoc,AB,T2Z 4M3,211-227-1649,405-722-8970,annemarie.aguilar@utoronto.ca
+557,King,Teresita,3,11th Street,Ridgeway,ON,F3Y 5H1,294-461-2752,309-447-7831,teresita.king@utoronto.ca
+930,Buckner,Doretha,3,Oxford Street,Lodgepole,NB,P1H 8V4,785-171-7734,207-130-3480,doretha.buckner@utoronto.ca
+169,Larson,Precious,5,Bristol Street,Edzo,NL,J7O 7C0,417-876-2797,902-888-7811,precious.larson@utoronto.ca
+456,Mason,Jewel,67,Leonora Court,Rossburn,QC,M0I 9Y2,145-700-8430,827-830-7571,jewel.mason@utoronto.ca
+616,Hayes,Iona,431,38th Street,Shefford,ON,B9I 4J5,851-240-3121,611-630-6909,iona.hayes@utoronto.ca
+944,Meyers,Lola,1567,Webster Place,Hamilton,MB,D7S 9J9,134-298-2006,682-998-3355,lola.meyers@utoronto.ca
+917,Barker,Haydee,3,Pierrepont Place,Codroy,PE,K3E 3K8,299-434-9104,258-358-7806,haydee.barker@utoronto.ca
+303,Walters,Vera,5578,Clarendon Road,Kimberley,QC,A0R 7E9,598-924-6164,984-238-3415,vera.walters@utoronto.ca
+784,Boyd,Kimberly,71,Porter Avenue,Rocky Mountain House,BC,F1X 4W8,882-535-7218,320-182-4495,kimberly.boyd@utoronto.ca
+902,Hatfield,Jaqueline,500,Bowery Street,Maccan,PE,D1X 1S0,395-413-3318,173-335-7199,jaqueline.hatfield@utoronto.ca
+25,Mcconnell,Juliette,6,Harrison Place,Vineland,AB,C5H 7M5,501-465-5517,993-213-5086,juliette.mcconnell@utoronto.ca
+833,Odom,Taryn,267,Chester Court,Grand Falls,MB,P3P 0R8,491-934-6984,560-991-1924,taryn.odom@utoronto.ca
+934,Smith,Delois,827,42nd Street,Mount Pearl,PE,Q1Z 4L0,553-710-7936,482-580-1495,delois.smith@utoronto.ca
+584,Clemons,Keri,41,9th Avenue,St-Georges,NT,D2O 1O9,317-857-4025,354-295-1048,keri.clemons@utoronto.ca
+103,Butler,Tatiana,3292,Portland Avenue,Young`s Cove Road,SK,V6S 8R8,512-146-3686,423-829-8398,tatiana.butler@utoronto.ca
+862,Odonnell,Belen,1,12th Street,Meander River,AB,M7D 4G8,597-579-8155,305-205-1049,belen.odonnell@utoronto.ca
+586,Hines,Maureen,6,Spencer Place,St. Lawrence,YT,R7C 1V0,667-312-2321,435-689-7778,maureen.hines@utoronto.ca
+250,Dorsey,Bessie,60,Wilson Avenue,Macrorie,PE,Z9U 9L0,172-520-4038,597-381-1219,bessie.dorsey@utoronto.ca
+257,Delgado,Amy,9807,Little Nassau Street,Logan Lake,NB,F4V 0L0,364-319-2459,537-238-4051,amy.delgado@utoronto.ca
+627,Barrett,Clare,827,Brighton 1st Path,Exshaw,ON,L6F 1D7,923-711-1397,641-840-1558,clare.barrett@utoronto.ca
+466,Newman,Aleta,63,Freeman Street,Ocean Park,NL,Y9U 7H3,782-393-4657,748-359-9650,aleta.newman@utoronto.ca
+868,Stanton,Elissa,7,Boulevard Court,Hampton,PE,T3C 6V0,401-581-1173,628-484-1015,elissa.stanton@utoronto.ca
+682,Fuller,Magdalena,747,Avenue A,Meath Park,ON,U3N 8L9,950-305-1550,763-895-5796,magdalena.fuller@utoronto.ca
+73,House,Ursula,4794,Orient Avenue,Venise-en-Quebec,NT,T0T 2K1,534-653-7645,689-732-8512,ursula.house@utoronto.ca
+686,Mcfarland,Stephanie,68,Banner 3rd Terrace,Haileybury,NB,R9I 9L9,718-465-3727,977-375-2144,stephanie.mcfarland@utoronto.ca
+357,Santos,Ida,631,Concord Street,Port Hope,YT,A2H 8Y0,993-172-5548,935-302-2275,ida.santos@utoronto.ca
+962,Washington,Dorthy,8,Rochester Avenue,Mount Pleasant,BC,V6H 5D5,422-676-4733,646-106-8535,dorthy.washington@utoronto.ca
+731,Le,Violet,4443,Elm Place,Seven Persons,BC,E7D 6W4,659-994-5321,411-666-2775,violet.le@utoronto.ca
+504,Black,Lee,464,Bartlett Place,St-Moose,YT,W7C 2T0,686-723-1282,129-826-8211,lee.black@utoronto.ca
+82,Bauer,Joann,6973,Driggs Avenue,Maryfield,QC,Z0V 5F0,904-165-7670,544-398-1260,joann.bauer@utoronto.ca
+321,Murphy,Rae,232,18th Street,Carman,SK,G6X 4E0,614-272-9827,406-359-6293,rae.murphy@utoronto.ca
+675,Mccarty,Ashlee,46,Osborn Street,Umiujaq,BC,P3H 1T4,352-423-4753,104-155-3208,ashlee.mccarty@utoronto.ca
+564,Foley,Audrey,34,Haring Street,Port Maitland,MB,Q7B 6C8,127-989-1832,135-483-8810,audrey.foley@utoronto.ca
+485,Johnston,Chasity,955,Juliana Place,St. Gregoire de Nicolet,NT,O9F 6I7,852-996-2384,428-954-4241,chasity.johnston@utoronto.ca
+867,Huber,Kayla,855,Macon Street,Foymount,BC,N5E 9Z9,467-952-3052,765-524-6514,kayla.huber@utoronto.ca
+815,Steele,Charlotte,7688,Lee Avenue,Val-Belair,NU,G3F 2G7,657-766-8397,746-477-1480,charlotte.steele@utoronto.ca
+479,Love,Demetria,931,49th Street,Ste-Anne-de-Madawaska,NT,R1T 6F7,822-568-6450,461-376-9230,demetria.love@utoronto.ca
+630,Mclean,Latoya,930,Beach 37th Street,Islay,NB,T5U 4E5,829-424-6533,718-184-4858,latoya.mclean@utoronto.ca
+65,Doyle,Adelaide,2475,Brighton 7th Lane,Argyle,NS,T4M 5D3,902-796-9210,245-317-7647,adelaide.doyle@utoronto.ca
+128,Leon,Kathy,119,Stoddard Place,Saint Colomban,BC,Y8C 5V0,434-909-2612,112-185-4266,kathy.leon@utoronto.ca
+434,Sanders,Sofia,2941,Krier Place,Millertown,YT,P2W 5V7,329-909-4335,423-338-2866,sofia.sanders@utoronto.ca
+612,Hyde,Belen,5,Sunnyside Court,Ogema,MB,N7W 4T9,104-337-9445,250-362-3281,belen.hyde@utoronto.ca
+5,Melton,Melva,482,Box Street,Onaping Falls,SK,A4E 3W6,757-681-2421,689-801-7620,melva.melton@utoronto.ca
+440,Nielsen,Patti,3987,Channel Avenue,Elkhorn,NS,H7T 6R5,244-556-5552,951-560-9426,patti.nielsen@utoronto.ca
+704,Santos,Francis,330,Beach 46th Street,Barwick,NT,D7V 6O9,913-203-4274,998-632-3520,francis.santos@utoronto.ca
+254,Bullock,Noreen,963,Vanderveer Place,Lampman,YT,N8X 6S5,991-415-2030,611-685-8694,noreen.bullock@utoronto.ca
+923,Rivers,Autumn,615,Troutman Street,Barwick,NS,W7D 7E4,118-474-1124,614-923-3240,autumn.rivers@utoronto.ca
+26,Mathis,Kelsey,191,Hamilton Walk,Newmarket,AB,X8V 2T3,256-161-4114,518-223-4910,kelsey.mathis@utoronto.ca
+817,Klein,Yvonne,88,Brighton 2nd Walk,Port La Tour,NT,C4Q 5Y6,897-223-7468,330-508-5434,yvonne.klein@utoronto.ca
+767,Burch,Sadie,3117,Terrace Place,Pointe-au-Pere,NU,X3H 7C2,430-840-6456,752-199-5679,sadie.burch@utoronto.ca
+40,Lucas,Jannie,22,Hooper Street,Alvena,PE,I3L 9M5,103-371-5541,428-508-9529,jannie.lucas@utoronto.ca
+8,Nolan,Casandra,45,Bridgewater Street,St. Walburg,ON,W6F 8N2,485-170-2886,308-936-2736,casandra.nolan@utoronto.ca
+483,Zimmerman,Francis,88,Waverly Avenue,Saint Amable,BC,O0R 4R4,281-741-7079,558-143-3321,francis.zimmerman@utoronto.ca
+874,Herrera,Irene,690,Cropsey Avenue,Sturgeon Falls,YT,C7K 2D8,893-265-2169,758-814-4014,irene.herrera@utoronto.ca
+892,Mcknight,Flossie,13,Brighton 10th Lane,Rivers,NT,R9H 3N1,557-623-1064,154-983-8421,flossie.mcknight@utoronto.ca
+940,Barrett,Augusta,812,Vine Street,Jellicoe,NU,O6I 9N3,223-284-2702,905-604-1333,augusta.barrett@utoronto.ca
+925,Salas,Debbie,96,Trucklemans Lane,Churchill Falls,NS,H0O 7R5,509-633-2216,726-463-7455,debbie.salas@utoronto.ca
+122,Keller,Cecilia,550,Classon Avenue,Trout Lake,BC,J7C 7B4,701-763-3481,689-543-2622,cecilia.keller@utoronto.ca
+958,Dorsey,Shameka,8606,Tehama Street,Dashwood,QC,L4L 0Y2,563-246-4319,109-286-4726,shameka.dorsey@utoronto.ca
+526,York,Alba,3,Whitney Avenue,Wabush,BC,P4D 1D1,665-189-7008,865-654-3409,alba.york@utoronto.ca
+745,Acevedo,Catalina,3491,Jackson Court,Montreal,QC,L3J 2Q1,998-790-1906,473-325-5876,catalina.acevedo@utoronto.ca
+398,Gamble,Charline,206,Glen Street,Hodgeville,PE,M5T 2Y6,348-329-2661,344-621-9341,charline.gamble@utoronto.ca
+670,Mcgowan,Kristy,93,Fillmore Avenue,Saint Thomas,QC,K7T 1V7,689-829-9713,195-703-4837,kristy.mcgowan@utoronto.ca
+506,Hernandez,Iona,6,Moore Street,Teeswater,BC,J8P 0U3,719-246-1102,872-477-7025,iona.hernandez@utoronto.ca
+272,Nicholson,Sherrill,60,Desmond Court,Montney,NL,J7G 9B7,840-791-8752,463-770-8379,sherrill.nicholson@utoronto.ca
+970,Arnold,Esmeralda,22,Albemarle Road,Southey,PE,Q5A 0Y3,931-888-1521,251-316-2512,esmeralda.arnold@utoronto.ca
+452,Mckay,Paula,97,Hubbard Place,Yellow Grass,BC,L2U 3E4,302-979-7886,246-801-6153,paula.mckay@utoronto.ca
+390,Olsen,Rosina,97,Barlow Drive,New Sarepta,PE,Y8X 3J8,794-317-6622,695-980-6673,rosina.olsen@utoronto.ca
+138,Finch,Ebony,95,15th Place,Radisson,MB,S7B 1F7,678-325-4912,710-421-3805,ebony.finch@utoronto.ca
+572,Bailey,Lolita,1,Fulton Street,Cardinal,AB,U2W 8U3,310-514-8377,178-733-4018,lolita.bailey@utoronto.ca
+259,Lang,Dulce,19,Moffat Street,Pass Lake,NB,C9C 4X8,264-298-6606,860-502-7303,dulce.lang@utoronto.ca
+165,Fry,Soledad,967,Newton Street,Joliette,NS,C5G 7M4,148-859-6585,315-231-2564,soledad.fry@utoronto.ca
+175,Aguirre,Annamarie,1784,19th Street,Shefford,QC,B9R 6S4,848-765-3507,419-484-1360,annamarie.aguirre@utoronto.ca
+530,Morrow,Shanta,4340,Center Market Street,Senneterre,NS,Y6E 5F7,378-265-7334,901-719-4633,shanta.morrow@utoronto.ca
+605,Rogers,Mayme,520,Summit Street,Sacre Coeur,PE,I8K 6D7,201-379-3054,120-575-2208,mayme.rogers@utoronto.ca
+304,Goodwin,Janeen,7,20th Avenue,Delta,PE,B3T 3T8,264-585-4707,148-693-3694,janeen.goodwin@utoronto.ca
+880,Tyler,Valencia,4229,Hendrix Street,Boisbriand,NT,R1E 1L9,144-248-3649,964-328-5932,valencia.tyler@utoronto.ca
+678,Young,Lia,6,Schenectady Avenue,Port Cunnington,NT,S6R 0T9,867-572-6121,216-845-9327,lia.young@utoronto.ca
+410,Oneal,Lashonda,1,Lloyd Street,Lansdowne,NS,I4W 5K1,669-881-8123,849-551-7441,lashonda.oneal@utoronto.ca
+375,Tate,Fern,900,Willoughby Street,St. Gabriel de Rimouski,NT,A8R 5U7,316-855-8883,629-147-1824,fern.tate@utoronto.ca
+692,Castaneda,Letha,9496,Glenmore Avenue,Carseland,MB,F1F 2I3,749-891-3453,372-486-8084,letha.castaneda@utoronto.ca
+765,Poole,Suzan,5,Oriental Boulevard,Tompkins,NS,U1S 8A7,621-237-7241,790-254-3895,suzan.poole@utoronto.ca
+810,Hobbs,Andrea,55,Sands Street,Morrisburg,YT,W4R 9I3,595-284-9410,900-601-6671,andrea.hobbs@utoronto.ca
+59,Crawford,Traci,6,Newel Street,Pierrefonds,QC,P9K 5X0,561-836-4583,815-972-6308,traci.crawford@utoronto.ca
+998,Kidd,Starla,79,Ovington Court,Charlemagne,MB,Z4H 2X5,476-777-8082,239-839-5185,starla.kidd@utoronto.ca
+123,Wilson,April,8,Dover Street,Ruthven,NT,B1X 0X5,207-236-6898,412-625-5193,april.wilson@utoronto.ca
+23,Terry,Phylis,221,Java Street,Neudorf,NS,W3B 8I7,690-509-1526,234-691-3433,phylis.terry@utoronto.ca
+545,Webster,Bennie,825,Voorhies Avenue,Cumberland House,QC,T4D 3X8,105-989-8672,309-354-6008,bennie.webster@utoronto.ca
+286,Barnes,Carmella,74,Paerdegat 9th Street,Glassville,ON,A0Z 6Y2,476-295-5724,641-839-7863,carmella.barnes@utoronto.ca
+177,Bruce,Fran,756,Denton Place,Cartwright,MB,S3V 1T6,678-396-9346,276-167-7056,fran.bruce@utoronto.ca
+164,Hewitt,Juliette,82,Leonora Court,Humber Arm South,YT,M7N 5R5,546-294-9834,332-820-8477,juliette.hewitt@utoronto.ca
+211,Diaz,Marylin,525,Flatlands 5th Street,Beaconsfield,MB,Q9L 3S6,940-623-4257,908-889-8577,marylin.diaz@utoronto.ca
+742,Buck,Rachael,7461,Sandford Street,Rockland,MB,R8G 4F9,152-621-9364,120-692-1829,rachael.buck@utoronto.ca
+978,Williamson,Bettina,2494,63rd Street,Hawkesbury,MB,A0K 8Q4,267-812-7511,123-328-9367,bettina.williamson@utoronto.ca
+28,Mcfadden,Kisha,608,Bay 52nd Street,Notre-Dame-du-Nord,BC,K5C 6I7,723-633-9133,949-907-2220,kisha.mcfadden@utoronto.ca
+860,Lindsey,Kayla,636,St Edwards Street,Elgin,NT,K6E 7I0,205-619-7841,870-191-8420,kayla.lindsey@utoronto.ca
+481,Walsh,Isabella,63,Brighton 10th Court,Newtonville,MB,W7P 4Q9,576-253-1087,331-286-1374,isabella.walsh@utoronto.ca
+614,Vargas,Alisa,951,Brighton 6th Street,Cypress River,AB,B2N 9R8,229-245-8157,370-237-9805,alisa.vargas@utoronto.ca
+146,Hardin,Dayna,4968,Lake Street,Cowley,NT,A6N 3U9,898-250-9558,337-698-3386,dayna.hardin@utoronto.ca
+990,Spence,Lourdes,706,Marlborough Court,Clarence-Rockland,NU,M8S 9E6,784-212-1110,514-229-1479,lourdes.spence@utoronto.ca
+473,Farmer,Mellissa,4087,Warren Street,Henryville,NL,L4O 8E4,543-605-9361,969-186-2137,mellissa.farmer@utoronto.ca
+99,Randall,Dixie,70,72nd Court,Fleur de Lys,MB,H8G 2C0,849-874-2615,244-697-9943,dixie.randall@utoronto.ca
+948,Hernandez,Betsy,482,Bank Street,Plumas,MB,H5R 9Y0,965-384-3424,743-597-5032,betsy.hernandez@utoronto.ca
+589,Franco,Kari,515,Poly Place,Destruction Bay,NL,Z3P 6T6,198-964-7733,446-635-3225,kari.franco@utoronto.ca
+405,Cox,Allyson,7,3rd Place,Shakespeare,SK,D0B 9W6,679-674-8414,992-893-3953,allyson.cox@utoronto.ca
+965,Hunt,Ruth,6897,Vernon Avenue,Ste-Anne-de-Madawaska,ON,E7I 8K8,410-472-2574,107-856-7586,ruth.hunt@utoronto.ca
+241,Baldwin,Eulalia,580,Paidge Avenue,Swan River,NL,I2R 2U4,420-939-1577,178-801-4822,eulalia.baldwin@utoronto.ca
+751,Robles,Louella,258,McKinley Avenue,Normetal,QC,I0E 1M5,457-547-8803,103-139-6799,louella.robles@utoronto.ca
+174,Holcomb,Lindy,9342,Kenmore Court,La Prairie,ON,E3R 6O5,544-425-3464,742-876-6817,lindy.holcomb@utoronto.ca
+809,Abbott,Nanci,53,65th Street,Ingleside,BC,W3W 5Q3,802-272-8934,170-216-7751,nanci.abbott@utoronto.ca
+712,Mcdaniel,Keisha,22,Owls Head Court,Fort Smith,SK,S0Q 5X1,928-176-3947,470-123-8746,keisha.mcdaniel@utoronto.ca
+77,Wise,Alva,827,Bay 28th Street,Cranbrook,ON,R3N 3H7,407-589-7977,820-236-1890,alva.wise@utoronto.ca
+753,Cortez,Hazel,87,St Johns Place,Wandering River,NB,P2E 6S9,733-272-6618,889-800-1347,hazel.cortez@utoronto.ca
+884,Moss,Annmarie,151,Aitken Place,Brooks,NS,O4E 9R4,286-622-6232,135-641-2584,annmarie.moss@utoronto.ca
+270,Cash,Karin,1,Farragut Place,Mayerthorpe,BC,S6L 4K2,955-163-6110,462-523-9860,karin.cash@utoronto.ca
+328,Beard,Fatima,8,Prospect Street,St-Gregoire-de-Greenlay,AB,K7A 9S9,795-518-5357,921-328-6810,fatima.beard@utoronto.ca
+628,Irwin,Garnet,3707,Amherst Street,McAuley,NT,S1F 0Q1,218-255-3230,480-501-2855,garnet.irwin@utoronto.ca
+547,Howard,Nicole,439,Rose Street,Thrums,NT,G6T 6G8,359-833-7723,526-773-1616,nicole.howard@utoronto.ca
+721,Meyer,Alexandria,8514,Legion Street,St. Thomas,AB,L4F 2F3,155-395-6449,454-941-9492,alexandria.meyer@utoronto.ca
+879,Kline,Nanci,168,Bay 20th Street,Apsley,PE,G8T 5K7,649-846-5679,251-101-6061,nanci.kline@utoronto.ca
+442,Waller,Alaina,96,53rd Place,Ottawa,PE,Q1M 0M6,826-426-2916,173-662-4815,alaina.waller@utoronto.ca
+52,Hensley,Connie,7948,Greenpoint Avenue,Yorkton,MB,Q0G 6X6,588-385-8067,336-751-1727,connie.hensley@utoronto.ca
+959,Ayala,Anita,88,Lake Street,Oyama,NU,H3I 5M2,230-520-3784,527-339-6313,anita.ayala@utoronto.ca
+559,Daniel,Fern,10,Kingston Avenue,Saugeen First Nation,SK,F4P 5F4,687-721-1588,750-610-4365,fern.daniel@utoronto.ca
+423,Livingston,Fabiola,8126,Highlawn Avenue,Sauble Beach,NS,R6K 2M8,472-976-2430,430-285-3654,fabiola.livingston@utoronto.ca
+301,Shelton,Carmelita,848,Neptune Avenue,Madsen,AB,F7N 9R4,241-580-1416,994-122-1530,carmelita.shelton@utoronto.ca
+365,Nixon,Nelly,614,Force Tube Avenue,Windermere,ON,E5F 4V9,446-343-4059,948-456-2651,nelly.nixon@utoronto.ca
+953,Hull,Rochelle,9,Columbus Place,St-Victor,NB,L6I 2A1,781-566-7122,187-719-8880,rochelle.hull@utoronto.ca
+750,Beard,Marsha,9614,Radde Place,Mississauga,NL,W2A 8P9,873-661-5292,522-309-5090,marsha.beard@utoronto.ca
+474,Watkins,Gerry,778,Woodruff Avenue,Oxford Mills,BC,W4Z 1Z9,853-844-3827,487-723-2377,gerry.watkins@utoronto.ca
+989,Wiggins,Kami,56,Durland Place,St. Clements,PE,R7G 8B9,986-743-1607,348-756-8447,kami.wiggins@utoronto.ca
+926,Sosa,Sunny,7766,Brighton 4th Street,Molanosa,NU,Y8R 3H0,512-446-3609,599-624-9001,sunny.sosa@utoronto.ca
+854,Barr,Carly,85,Banner 3rd Road,Fillmore,PE,A4U 5E2,519-514-6172,856-281-3722,carly.barr@utoronto.ca
+556,Chapman,Frances,4328,Billings Place,Iroquois Falls,NT,M2H 0J1,232-757-2811,336-712-6328,frances.chapman@utoronto.ca
+429,Crawford,Jana,2,Friel Place,Virden,YT,X8L 7M7,539-421-7285,492-240-9552,jana.crawford@utoronto.ca
+851,Harrell,Harriette,4987,1st Street,Pelly Crossing,NT,D4F 0K7,745-202-5379,411-437-1984,harriette.harrell@utoronto.ca
+714,Davis,Amparo,224,Downing Street,Matane,AB,P9J 1V9,171-385-2565,722-990-9101,amparo.davis@utoronto.ca
+928,Contreras,Abby,2,Colonial Court,Belle River,BC,X2I 8H8,627-281-2245,111-324-8143,abby.contreras@utoronto.ca
+610,Chase,Raven,9095,Grace Court,Sylvan Lake,YT,D4H 4G9,658-634-4140,850-796-1130,raven.chase@utoronto.ca
+657,Thomas,Janell,3,Brighton 10th Lane,Morley,ON,A9T 9D5,498-536-6493,654-257-1192,janell.thomas@utoronto.ca
+599,Morgan,Bette,768,51st Street,Nain,NS,J4R 9V9,378-134-7556,393-724-2117,bette.morgan@utoronto.ca
+470,Wooten,Rachael,5,Kenilworth Place,Hadashville,MB,F9I 6D3,408-955-4149,781-979-4316,rachael.wooten@utoronto.ca
+507,Booth,Ellen,2,Waldorf Court,Saint Maurice,NT,R5N 6J8,388-874-9138,989-601-4393,ellen.booth@utoronto.ca
+283,Salinas,Rosanna,822,101st Avenue,Savona,ON,D2P 0N1,128-238-8004,837-355-4729,rosanna.salinas@utoronto.ca
+974,Crane,Frieda,117,Perry Terrace,Queensville,NS,J9U 0N2,391-278-1223,664-681-6767,frieda.crane@utoronto.ca
+722,Riddle,Marisela,3012,Georgia Avenue,Bengough,NT,M9F 1O0,242-381-3383,323-163-2805,marisela.riddle@utoronto.ca
+920,Fleming,Cathie,5,Legion Street,Metis-sur-Mer,YT,N5I 0M9,489-912-6140,680-370-8401,cathie.fleming@utoronto.ca
+

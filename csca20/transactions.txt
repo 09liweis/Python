@@ -1,0 +1,7 @@
+2010-12-20, 12345, Transfer, Savings, Chequing, 100.00
+2011-01-30, 12345, Bill, Chequing, Visa, 980.50
+2011-02-28, 54321, Bill, Chequing, Mastercard, 130.25
+2011-03-14, 12345, Bill, Chequing, Rogers, 61.50
+2011-02-27, 12345, Bill, Chequing, Visa, 215.00
+2011-03-15, 45678, Bill, Savings, UofTTuition, 3500.00
+2011-03-13, 45678, Transfer, Chequing, Savings, 1500.00

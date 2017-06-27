@@ -1,0 +1,38 @@
+LOCATION -1
+0
+That way is blocked.
+That way is blocked.
+END
+
+LOCATION 1
+1
+You are on the first floor of the UTM Library. There is an empty study room to the South, an exit from the library to the North. loaction 1
+You are on the first floor of the UTM Library. It's usually crowded at this time of the day, but today it's eerily quiet.
+Only a few students are studying inside one of the study rooms. You better not disturb them. A librarian stands near the
+service desk, looking bored and sleepy. There is an empty study room to the South, an exit from the library to the North. location 1
+END
+
+LOCATION 2
+2
+This study room is completely empty. location 2
+You are in an empty study room. And by empty, we mean, absolutely empty. All the tables and chairs have been taken out,
+the whiteboards taken off the wall, not even the carpeting is left. Are they planning to do something else with this space? location2
+END
+
+LOCATION 3
+3
+You are outside of the library. There is a Starbucks to the North. location 3
+You are outside of the library in a crowded hallway. There is a smell of coffee in the air. There is a Starbucks to the North.location 3
+END
+
+LOCATION 4
+4
+You are on location 4
+You are on location 4 you can move east and west
+END
+
+LOCATION 5
+5
+You are on location 5
+You are on location 5 you can move west
+END
