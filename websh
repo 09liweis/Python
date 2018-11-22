@@ -1,0 +1,10 @@
+url=$1
+lynx -dump $url
+
+echo 'Please Enter Reference Number'
+while read ref
+do
+    url=$(lynx -dump $url | grep -w $ref | grep -Eo "(http|https)://[a-zA-Z0-9./?=_-]*" | sort | uniq)
+    lynx -dump $url
+    echo 'Please Enter Reference Number'
+done
